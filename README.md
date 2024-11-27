@@ -1,19 +1,19 @@
-<table style="border: none; border-collapse: collapse; width: 100%; margin: 0; padding: 0;">
+<table style="border: none; border-collapse: collapse; width: 100%; margin: 0; padding: 0; table-layout: auto;">
   <tr style="border: none;">
-    <td style="border: none; width: 50px; vertical-align: top; padding: 0; line-height: 0;">
+    <td style="border: none; width: 170px; min-width: 170px; max-width: 370px; vertical-align: top; padding: 0; line-height: 0; text-align: center;">
       <a href="#" style="text-decoration: none; border: none; outline: none;">
         <img src="https://github.com/user-attachments/assets/6576bedd-aa51-4b32-b191-50c5d3f711dd" 
              width="170px" 
              alt="Фото Александра Бужор" 
-             style="border: none !important; display: block; margin: 0; padding: 0; outline: none; box-shadow: none;">
+             style="border: none !important; display: block; margin: 0 auto; padding: 0; outline: none; box-shadow: none; width: 777px; height: auto;">
       </a>
     </td>
-    <td style="border: none; vertical-align: top; padding: 0; line-height: 0.3;">
-      <h1 style="margin: 5px 0; font-size: 46px;">Александра Бужор</h1>
-      <p style="margin: 5px 0;"><strong>Родилась:</strong> 8 сентября 1985</p>
-      <p style="margin: 5px 0;"><strong>Местоположение:</strong> Санкт-Петербург</p>
-      <p style="margin: 5px 0;"><strong>Готовность к командировкам:</strong> Да, <strong>Готовность к переезду:</strong> Нет</p>
-      <p style="margin: 5px 0;"><strong>Занятость:</strong> полная занятость, частичная занятость, проектная работа</p>
+    <td style="border: none; vertical-align: top; padding: 0 10px; overflow-wrap: break-word; word-wrap: break-word;">
+      <h1 style="margin: 0; font-size: 36px;">Александра Бужор</h1>
+      <p style="margin: 5px 0; line-height: 0.7;"><strong>Родилась:</strong> 8 сентября 1985 года</p>
+      <p style="margin: 5px 0; line-height: 0.7;">
+        <em>Опытный специалист с более чем 10-летним стажем в области бизнес-анализа, системной аналитики и автоматизации бизнес-процессов. Обладаю глубокими знаниями в области информационных технологий, информационной безопасности и разработки программного обеспечения. Успешно реализовала множество проектов по оптимизации бизнес-процессов и внедрению информационных систем.</em>
+      </p>
     </td>
   </tr>
 </table>
@@ -24,9 +24,10 @@
 - **Телефон:** +7 (961) 008-69-69
 - **Telegram:** @Angry_C_F_O
 - **Email:** Alexandra.a.bujor@icloud.com
-
-### Профессиональный профиль
-Опытный специалист с более чем 10-летним стажем в области бизнес-анализа, системной аналитики и автоматизации бизнес-процессов. Обладаю глубокими знаниями в области информационных технологий, информационной безопасности и разработки программного обеспечения. Успешно реализовала множество проектов по оптимизации бизнес-процессов и внедрению информационных систем.
+- **Местоположение:** Санкт-Петербург                     
+- **Готовность к командировкам:** Да
+- **Готовность к переезду:** Нет
+- **Занятость:** полная занятость, частичная занятость, проектная работа
 
 ### Профессиональный опыт
 
