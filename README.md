@@ -1,22 +1,26 @@
 <table style="border: none; border-collapse: collapse; width: 100%; margin: 0; padding: 0; table-layout: auto;">
   <tr style="border: none;">
-    <td style="border: none; width: 170px; min-width: 170px; max-width: 370px; vertical-align: top; padding: 0; line-height: 0; text-align: center;">
+    <td style="border: none; width: 999px; min-width: 999px; max-width: 999px; vertical-align: top; padding: 0; text-align: center;">
       <a href="#" style="text-decoration: none; border: none; outline: none;">
-        <img src="https://github.com/user-attachments/assets/6576bedd-aa51-4b32-b191-50c5d3f711dd" 
-             width="170px" 
+        <img src="https://github.com/user-attachments/assets/e625d416-dbc5-4169-81ef-9148652e53f5" 
              alt="Фото Александра Бужор" 
-             style="border: none !important; display: block; margin: 0 auto; padding: 0; outline: none; box-shadow: none; width: 777px; height: auto;">
+             style="border: none !important; display: block; margin: 0 auto; padding: 0; outline: none; box-shadow: none; width: 999px; height: auto;">
       </a>
     </td>
     <td style="border: none; vertical-align: top; padding: 0 10px; overflow-wrap: break-word; word-wrap: break-word;">
       <h1 style="margin: 0; font-size: 36px;">Александра Бужор</h1>
-      <p style="margin: 5px 0; line-height: 0.7;"><strong>Родилась:</strong> 8 сентября 1985 года</p>
-      <p style="margin: 5px 0; line-height: 0.7;">
+      <p style="margin: 5px 0; line-height: 1;"><strong>Родилась:</strong> 8 сентября 1985 года</p>
+      <p style="margin: 5px 0; line-height: 1;">
         <em>Опытный специалист с более чем 10-летним стажем в области бизнес-анализа, системной аналитики и автоматизации бизнес-процессов. Обладаю глубокими знаниями в области информационных технологий, информационной безопасности и разработки программного обеспечения. Успешно реализовала множество проектов по оптимизации бизнес-процессов и внедрению информационных систем.</em>
       </p>
     </td>
   </tr>
 </table>
+
+
+
+
+
 
 ## Бизнес-аналитик / Специалист по автоматизации бизнес-процессов / Системный аналитик
 
